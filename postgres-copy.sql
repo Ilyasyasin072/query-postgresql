@@ -1,0 +1,1 @@
+COPY weather from '/home/ilyas/Desktop/weather.txt' DELIMITER ',';
